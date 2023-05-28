@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Course\\.Net\\My Projects\\PieShop\\PieShop\\PieShop.csproj": {}
+    "G:\\Course\\.Net\\MyProjects\\PieShop\\PieShop\\PieShop.csproj": {}
   },
   "projects": {
-    "G:\\Course\\.Net\\My Projects\\PieShop\\PieShop\\PieShop.csproj": {
+    "G:\\Course\\.Net\\MyProjects\\PieShop\\PieShop\\PieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Course\\.Net\\My Projects\\PieShop\\PieShop\\PieShop.csproj",
+        "projectUniqueName": "G:\\Course\\.Net\\MyProjects\\PieShop\\PieShop\\PieShop.csproj",
         "projectName": "PieShop",
-        "projectPath": "G:\\Course\\.Net\\My Projects\\PieShop\\PieShop\\PieShop.csproj",
+        "projectPath": "G:\\Course\\.Net\\MyProjects\\PieShop\\PieShop\\PieShop.csproj",
         "packagesPath": "C:\\Users\\Options\\.nuget\\packages\\",
-        "outputPath": "G:\\Course\\.Net\\My Projects\\PieShop\\PieShop\\obj\\",
+        "outputPath": "G:\\Course\\.Net\\MyProjects\\PieShop\\PieShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Options\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,3 +1,10 @@
-# Dessert-Shop
+Ecommerce application for customers to browse and order desserts from the comfort of their own homes and
+have them delivered to their doorstep and shopping cart for customers to put the products they want to buy.
 
-I have built “PieShop” web Application which shows different types of pies and the user can login to the app and picks the products he likes and puts it in the shopping cart then checkout for items he want to buy
+### Tools:
+
+    1.ASP.Net Core MVC
+    2.SqlServer, EntityFramework, Linq
+    3.HTML,CSS,Bootstrap
+    4.Identity Membership
+    5.Repository Design Pattern

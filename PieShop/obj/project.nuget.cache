@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PjEV4KCK+bAqyzNqu6gK59UWVeopHw13LiLPVb5NO2vkyu4/CUu3W2OP2ZpEX9bVk3ZGzms6q8gQuGCm7QAGzg==",
+  "dgSpecHash": "nceJ9tTyIcbXQ/XNhB7f9px8spgTCuEuQv2hvD8AoYg6B65yoOIcxoTzH0riMVcU38p75ibhkFYFIZjBA/iiKA==",
   "success": true,
-  "projectFilePath": "G:\\Course\\.Net\\My Projects\\PieShop\\PieShop\\PieShop.csproj",
+  "projectFilePath": "G:\\Course\\.Net\\MyProjects\\PieShop\\PieShop\\PieShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Options\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Options\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
